@@ -1,0 +1,12 @@
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\bin\Debug\net6.0\Hometask_2.Domain.deps.json
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\bin\Debug\net6.0\Hometask_2.Domain.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\bin\Debug\net6.0\Hometask_2.Domain.pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.csproj.AssemblyReference.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.AssemblyInfoInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.AssemblyInfo.cs
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\refint\Hometask_2.Domain.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\Hometask_2.Domain.pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_2\Hometask_2\Hometask_2.Domain\obj\Debug\net6.0\ref\Hometask_2.Domain.dll
