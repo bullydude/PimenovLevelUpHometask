@@ -1,0 +1,15 @@
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\bin\Debug\net6.0\Generics.exe
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\bin\Debug\net6.0\Generics.deps.json
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\bin\Debug\net6.0\Generics.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\bin\Debug\net6.0\Generics.pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\refint\Generics.dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_3\Example\Lesson4\obj\Debug\net6.0\ref\Generics.dll
