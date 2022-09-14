@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hometask_5_square_roots_
+build_property.ProjectDir = D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\

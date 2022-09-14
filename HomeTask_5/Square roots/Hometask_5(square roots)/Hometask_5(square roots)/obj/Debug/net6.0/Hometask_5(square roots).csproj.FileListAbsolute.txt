@@ -1,0 +1,15 @@
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\bin\Debug\net6.0\Hometask_5(square roots).exe
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\bin\Debug\net6.0\Hometask_5(square roots).deps.json
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\bin\Debug\net6.0\Hometask_5(square roots).runtimeconfig.json
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\bin\Debug\net6.0\Hometask_5(square roots).dll
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\bin\Debug\net6.0\Hometask_5(square roots).pdb
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).csproj.AssemblyReference.cache
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).AssemblyInfoInputs.cache
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).AssemblyInfo.cs
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).csproj.CoreCompileInputs.cache
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).dll
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\refint\Hometask_5(square roots).dll
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).pdb
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\Hometask_5(square roots).genruntimeconfig.cache
+D:\GitHub\PimenovLevelUpHometask\HomeTask_5\Square roots\Hometask_5(square roots)\Hometask_5(square roots)\obj\Debug\net6.0\ref\Hometask_5(square roots).dll
