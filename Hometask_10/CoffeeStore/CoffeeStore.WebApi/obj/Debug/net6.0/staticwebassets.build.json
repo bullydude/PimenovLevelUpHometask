@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xX6BbQaDHSqZZ4qrrh2PAKnGX7m3aiNfDMXvd6w2+w0=",
+  "Source": "CoffeeStore.WebApi",
+  "BasePath": "_content/CoffeeStore.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\bin\Debug\net6.0\CoffeeStore.exe
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\bin\Debug\net6.0\CoffeeStore.deps.json
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\bin\Debug\net6.0\CoffeeStore.runtimeconfig.json
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\bin\Debug\net6.0\CoffeeStore.dll
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\bin\Debug\net6.0\CoffeeStore.pdb
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.csproj.AssemblyReference.cache
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.AssemblyInfoInputs.cache
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.AssemblyInfo.cs
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.csproj.CoreCompileInputs.cache
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.dll
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\refint\CoffeeStore.dll
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.pdb
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\CoffeeStore.genruntimeconfig.cache
+D:\КУРСЫ\LevelUp_C#\CoffeeStore\CoffeeStore\obj\Debug\net6.0\ref\CoffeeStore.dll

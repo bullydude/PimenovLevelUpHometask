@@ -1,0 +1,15 @@
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\bin\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).exe
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\bin\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).deps.json
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\bin\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).runtimeconfig.json
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\bin\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\bin\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).csproj.AssemblyReference.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).AssemblyInfoInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).AssemblyInfo.cs
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).csproj.CoreCompileInputs.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\refint\Hometask_8(DeliveryAddressBuilder).dll
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).pdb
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\Hometask_8(DeliveryAddressBuilder).genruntimeconfig.cache
+D:\GitHub\PimenovLevelUpHometask\Hometask_8\DeliveryAddressBuilder\Hometask_8(DeliveryAddressBuilder)\Hometask_8(DeliveryAddressBuilder)\obj\Debug\net6.0\ref\Hometask_8(DeliveryAddressBuilder).dll
